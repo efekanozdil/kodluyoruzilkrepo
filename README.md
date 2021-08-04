@@ -10,7 +10,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için: 
 
-''
-cs kodluyoruzilkrepo
-code .
-''
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmmak için bir konu açınız.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
